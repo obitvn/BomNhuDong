@@ -1,0 +1,159 @@
+Added Component: Designator=A1(A4988)
+Add component. Clean all parameters for all variants
+Added Component: Designator=A2(Arduino Nano)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(JP8-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613008143121"; VariantName = "[No Variations]"
+Added Component: Designator=C?(JP7-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613007143121"; VariantName = "[No Variations]"
+Added Component: Designator=JDC1(DC0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LCD1(LCD16X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LCD16x2A"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO252-123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VR1(VR-S2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=EN_STEP Pin=A1-1
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_5 Pin=A1-6
+Added Pin To Net: NetName=STEP Pin=A1-7
+Added Pin To Net: NetName=DIR Pin=A1-8
+Added Pin To Net: NetName=GND Pin=A1-9
+Added Pin To Net: NetName=VCC Pin=A1-10
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_13 Pin=A1-13
+Added Pin To Net: NetName=NetA1_14 Pin=A1-14
+Added Pin To Net: NetName=GND Pin=A1-15
+Added Pin To Net: NetName=12V Pin=A1-16
+Added Pin To Net: NetName=GND Pin=A2-3
+Added Pin To Net: NetName=DIR Pin=A2-4
+Added Pin To Net: NetName=D6 Pin=A2-5
+Added Pin To Net: NetName=D7 Pin=A2-6
+Added Pin To Net: NetName=STEP Pin=A2-7
+Added Pin To Net: NetName=EN_STEP Pin=A2-8
+Added Pin To Net: NetName=NetA2_9 Pin=A2-9
+Added Pin To Net: NetName=NetA2_10 Pin=A2-10
+Added Pin To Net: NetName=NetA2_11 Pin=A2-11
+Added Pin To Net: NetName=NetA2_12 Pin=A2-12
+Added Pin To Net: NetName=NetA2_13 Pin=A2-13
+Added Pin To Net: NetName=NetA2_14 Pin=A2-14
+Added Pin To Net: NetName=NetA2_15 Pin=A2-15
+Added Pin To Net: NetName=3V3 Pin=A2-16
+Added Pin To Net: NetName=NetA2_18 Pin=A2-18
+Added Pin To Net: NetName=RS Pin=A2-20
+Added Pin To Net: NetName=EN Pin=A2-21
+Added Pin To Net: NetName=D4 Pin=A2-22
+Added Pin To Net: NetName=D5 Pin=A2-23
+Added Pin To Net: NetName=VCC Pin=A2-26
+Added Pin To Net: NetName=GND Pin=A2-28
+Added Pin To Net: NetName=12V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetA2_18 Pin=C5-1
+Added Pin To Net: NetName=NetA2_15 Pin=C5-2
+Added Pin To Net: NetName=NetA2_14 Pin=C5-3
+Added Pin To Net: NetName=NetA2_13 Pin=C5-4
+Added Pin To Net: NetName=NetA2_12 Pin=C5-5
+Added Pin To Net: NetName=NetA2_11 Pin=C5-6
+Added Pin To Net: NetName=NetA2_10 Pin=C5-7
+Added Pin To Net: NetName=NetA2_9 Pin=C5-8
+Added Pin To Net: NetName=NetA1_14 Pin=C?-4
+Added Pin To Net: NetName=NetA1_13 Pin=C?-5
+Added Pin To Net: NetName=NetA1_12 Pin=C?-6
+Added Pin To Net: NetName=NetA1_11 Pin=C?-7
+Added Pin To Net: NetName=12V Pin=JDC1-1
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=VCC Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=RS Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=EN Pin=LCD1-6
+Added Pin To Net: NetName=D4 Pin=LCD1-11
+Added Pin To Net: NetName=D5 Pin=LCD1-12
+Added Pin To Net: NetName=D6 Pin=LCD1-13
+Added Pin To Net: NetName=D7 Pin=LCD1-14
+Added Pin To Net: NetName=VCC Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=NetLCD1_3 Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component A1 A4988
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component A2 Arduino Nano
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C1 1000uF/16V
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C2 1000uF/16V
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C3 1000uF/16V
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C4 1000uF/16V
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C5 JP8
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component C? JP7
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component JDC1 Jack DC
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component LCD1 LCD 16x2A
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component U1 78XX
+Added Member To Class: ClassName=BomNhuDong_ml Member=Component VR1 10k
+Added Room: Name=BomNhuDong_ml
